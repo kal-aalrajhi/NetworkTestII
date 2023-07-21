@@ -11,7 +11,7 @@ import SwiftUI
 struct NetworkTestIIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DownloadWithCombine()
         }
     }
 }
